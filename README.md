@@ -1,5 +1,5 @@
 # Portfolio Performance Analyzer
-Portfolio Performance Analyzer (2025)
+Portfolio Performance Analyzer
 
 Developed a Python-based Portfolio Performance Analyzer to understand stock market trends and basic investment analysis. The project tracks the performance of multiple stocks and compares their returns over a selected period of time using financial data.
 
